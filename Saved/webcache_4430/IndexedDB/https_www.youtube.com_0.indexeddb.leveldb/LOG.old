@@ -1,0 +1,15 @@
+2023/03/23-10:54:46.252 200c Reusing MANIFEST C:/Users/user/Documents/Unreal Projects/ue5_ShaderPractice/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/03/23-10:54:46.253 200c Recovering log #4
+2023/03/23-10:54:46.254 200c Reusing old log C:/Users/user/Documents/Unreal Projects/ue5_ShaderPractice/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/000004.log 
+2023/03/23-10:57:22.049 5438 Level-0 table #8: started
+2023/03/23-10:57:22.051 5438 Level-0 table #8: 9119 bytes OK
+2023/03/23-10:57:22.053 5438 Delete type=0 #4
+2023/03/23-10:57:22.054 5438 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/03/23-10:57:22.055 5438 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00L@\x03\x000V\xcb\xdfmxB\x00\x03\x00\x00\x00\x00\x00\x00\x00@' @ 180 : 1
+2023/03/23-10:57:22.055 5438 Compacting 1@1 + 1@2 files
+2023/03/23-10:57:22.057 5438 Generated table #9@1: 41 keys, 2446 bytes
+2023/03/23-10:57:22.057 5438 Compacted 1@1 + 1@2 files => 2446 bytes
+2023/03/23-10:57:22.058 5438 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/03/23-10:57:22.059 5438 Delete type=2 #5
+2023/03/23-10:57:22.059 5438 Delete type=2 #8
+2023/03/23-10:57:22.061 5438 Manual compaction at level-1 from '\x00\x02\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00L@\x03\x000V\xcb\xdfmxB\x00\x03\x00\x00\x00\x00\x00\x00\x00@' @ 180 : 1 .. (end); will stop at (end)
